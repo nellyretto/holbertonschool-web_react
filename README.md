@@ -6,8 +6,6 @@ This project is a collection of TypeScript exercises designed to help you learn 
 
 The curriculum is divided into several tasks, each focusing on a specific TypeScript concept. Here's a breakdown of the tasks:
 
-**C#23 Foundations v2 - Part 3**
-
 This section is not part of the TypeScript curriculum, but foundational knowledge of C# may be helpful.
 
 **Typescript**
